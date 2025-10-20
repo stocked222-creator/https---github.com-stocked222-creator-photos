@@ -1,1 +1,51 @@
 # https---github.com-stocked222-creator-photos
+color themes
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Color Themes Table</title>
+</head>
+<body>
+
+    <h1 style="text-align:center;">5 Different Color Themes with Images</h1>
+
+    <table border="1" cellspacing="0" cellpadding="10" style="width: 100%; text-align: center;">
+        <tr style="background-color: #f44336; color: white;">
+            <th>Theme Name</th>
+            <th>Color</th>
+            <th>Image</th>
+        </tr>
+        <tr style="background-color: #ffebee;">
+            <td>Red Theme</td>
+            <td style="color: #f44336;">#f44336</td>
+            <td><img src="https://via.placeholder.com/100/ff4444/ffffff?text=Red" alt="Red Theme"></td>
+        </tr>
+
+        <tr style="background-color: #e8f5e9;">
+            <td>Green Theme</td>
+            <td style="color: #4caf50;">#4caf50</td>
+            <td><img src="https://via.placeholder.com/100/4caf50/ffffff?text=Green" alt="Green Theme"></td>
+        </tr>
+
+        <tr style="background-color: #e3f2fd;">
+            <td>Blue Theme</td>
+            <td style="color: #2196f3;">#2196f3</td>
+            <td><img src="https://via.placeholder.com/100/2196f3/ffffff?text=Blue" alt="Blue Theme"></td>
+        </tr>
+
+        <tr style="background-color: #fff8e1;">
+            <td>Yellow Theme</td>
+            <td style="color: #ffeb3b;">#ffeb3b</td>
+            <td><img src="https://via.placeholder.com/100/ffeb3b/000000?text=Yellow" alt="Yellow Theme"></td>
+        </tr>
+
+        <tr style="background-color: #f3e5f5;">
+            <td>Purple Theme</td>
+            <td style="color: #9c27b0;">#9c27b0</td>
+            <td><img src="https://via.placeholder.com/100/9c27b0/ffffff?text=Purple" alt="Purple Theme"></td>
+        </tr>
+    </table>
+
+</body>
+</html>
