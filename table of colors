@@ -1,1 +1,7 @@
-
+| Theme Name            | Backgr7ound Color | Text Color | Link Color | Accent/Highlight | Style Notes                         |
+| --------------------- | ---------------- | ---------- | ---------- | ---------------- | ----------------------------------- |
+| **1. Calming Blues**   | `#F5F7FA`        | `#2D3748`  | `#3182CE`  | `#238636`        | Calming blues, warm accent.    |
+| **2. Soft Pastel**    | `#fdf6e3`        | `#657b83`  | `#268bd2`  | `#2aa198`        | Calming, solarized-light inspired.  |
+| **3. Cyberpunk Neon** | `#0f0f0f`        | `#f8f8f2`  | `#ff79c6`  | `#50fa7b`        | Bold, high-contrast modern vibe.    |
+| **4. Forest Green**   | `#e8f5e9`        | `#1b5e20`  | `#388e3c`  | `#66bb6a`        | Earthy, natural tones for eco feel. |
+| **5. Ocean Breeze**   | `#e0f7fa`        | `#006064`  | `#00acc1`  | `#4dd0e1`        | Cool, aquatic tones for clean look. |
