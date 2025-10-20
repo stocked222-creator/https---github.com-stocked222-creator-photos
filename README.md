@@ -8,7 +8,12 @@ color themes
 </head>
 <body>
 
-    <h1 style="text-align:center;">5 Different Color Themes with Images</h1>
+   gray
+   blue 
+   black
+   orange
+   red
+   <h1 style="text-align:center;">5 Different Color Themes with Images</h1>
 
     <table border="1" cellspacing="0" cellpadding="10" style="width: 100%; text-align: center;">
         <tr style="background-color: #f44336; color: white;">
@@ -49,3 +54,4 @@ color themes
 
 </body>
 </html>
+
